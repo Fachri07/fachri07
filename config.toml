@@ -1,9 +1,0 @@
-baseURL = 'http://fachri07.github.io/'
-languageCode = 'en-us'
-title = 'Hobolive'
-theme = 'paper'
-[params]
-  disableHLJS = true                         # don't use highlight.js
-  twitter = 'FR_0_7'                # twitter.com/FR_0_7
-  github = 'fachri07'                  # github.com/fachri07
-  instagram = 'masih_fachri'            # instagram.com/masih_fachri
